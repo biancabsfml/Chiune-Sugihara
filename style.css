@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+* {
+  font-family: 'Questrial', sans-serif;
+}
+
+.img-div {
+  width: 100%;
+  height: 50rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url('./img/interacaovirtual.png');
+}
